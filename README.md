@@ -100,8 +100,9 @@ _I'd love for you to make the most of this project - it's all about learning, he
 4. **Launch the Development Server**
 
    ```bash
-   npm run dev
-   ```
+	npm run dev
+	$ npm run dev -- --host  # reload tab  
+ ```
 
 ## 🌟 Ready to Contribute?
 
